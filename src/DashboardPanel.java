@@ -12,7 +12,7 @@ public class DashboardPanel extends JPanel {
         this.setDoubleBuffered(true);
     }
 
-    public displayDashboard(){
+    public void displayDashboard(){
         
     }
 
